@@ -1,0 +1,12 @@
+{
+  "description": "/home/yarieldis",
+  "repo": "https://github.com/yarieldis/yarieldis.github.io",
+  "owner": {
+    "username": "yarieldis",
+    "email": "yarieldis+github@gmail.com"
+  },
+  "record": {
+    "CNAME": "yarieldis.github.io",
+    "URL": "https://yarieldis.is-a.dev"
+  }
+}
